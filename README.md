@@ -6,6 +6,15 @@ Timezone gaming refers to the virtual gaming setup where user can book a slot fo
 
 # 2 Checking the Details of a particular user 
 (A) By using ID
+
 ![CEHCKBYID](https://user-images.githubusercontent.com/66235628/87851358-9afd2900-c915-11ea-931e-18bd1a604c8d.gif)
+
+(B)By using Name 
+
+![byusername](https://user-images.githubusercontent.com/66235628/87855090-a3fcf300-c933-11ea-9583-64de1cc7f355.gif)
+
+# 3 To Check the list of all users registered 
+
+
 
 
