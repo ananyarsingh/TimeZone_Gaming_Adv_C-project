@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1595066376 source:c:\users\ananya singh\desktop\codeblocks\advc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
