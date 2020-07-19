@@ -4,7 +4,7 @@ Timezone gaming refers to the virtual gaming setup where user can book a slot fo
 # 1. Registration :
 ![1_registration](https://user-images.githubusercontent.com/66235628/87850972-f4635900-c911-11ea-9212-03d1d6cc1569.gif)
 
-# 2 Checking the Details of a particular user 
+# 2. Checking the Details of a particular user 
 (A) By using ID
 
 ![id](https://user-images.githubusercontent.com/66235628/87855741-ec1e1480-c937-11ea-8823-b2f569b98dd0.gif)
@@ -13,7 +13,15 @@ Timezone gaming refers to the virtual gaming setup where user can book a slot fo
 
 ![name](https://user-images.githubusercontent.com/66235628/87866390-de4faa00-c99e-11ea-836d-5bdaa0b3cdee.gif)
 
-# 3 To Check the list of all users registered 
+# 3. To Check the list of all users registered 
+
+![userlist](https://user-images.githubusercontent.com/66235628/87866525-8154f380-c9a0-11ea-896a-03ab46f86113.gif)
+
+# 4. Amount deduction for booking slot in a particular game from user's account 
+
+![playgame](https://user-images.githubusercontent.com/66235628/87866704-831fb680-c9a2-11ea-817a-46988403488d.gif)
+
+
 
 
 
