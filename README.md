@@ -11,7 +11,7 @@ Timezone gaming refers to the virtual gaming setup where user can book a slot fo
 
 (B)By using Name 
 
-![byusername](https://user-images.githubusercontent.com/66235628/87855090-a3fcf300-c933-11ea-9583-64de1cc7f355.gif)
+![name](https://user-images.githubusercontent.com/66235628/87866390-de4faa00-c99e-11ea-836d-5bdaa0b3cdee.gif)
 
 # 3 To Check the list of all users registered 
 
